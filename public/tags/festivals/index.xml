@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Festivals on My New Hugo Site</title>
+    <link>http://example.org/tags/festivals/</link>
+    <description>Recent content in Festivals on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Aug 2021 20:56:00 -0400</lastBuildDate><atom:link href="http://example.org/tags/festivals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How latin instruments can help you live a better life</title>
+      <link>http://example.org/posts/post-9/</link>
+      <pubDate>Tue, 17 Aug 2021 20:56:00 -0400</pubDate>
+      
+      <guid>http://example.org/posts/post-9/</guid>
+      <description>How top country songs can help you predict the future. The oddest place you will find music notes. 17 movies with unbelievable scenes about top country songs. Why your concert ticket never works out the way you plan. The oddest place you will find summer music festivals. 15 problems with music festivals. The 8 best music app twitter feeds to follow. Pop music books by the numbers. What experts are saying about live shows.</description>
+    </item>
+    
+  </channel>
+</rss>

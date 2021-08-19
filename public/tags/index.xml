@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Aug 2021 22:13:04 -0400</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>http://example.org/tags/about/</link>
+      <pubDate>Wed, 18 Aug 2021 22:13:04 -0400</pubDate>
+      
+      <guid>http://example.org/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Country</title>
+      <link>http://example.org/tags/country/</link>
+      <pubDate>Tue, 17 Aug 2021 20:56:04 -0400</pubDate>
+      
+      <guid>http://example.org/tags/country/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://example.org/tags/music/</link>
+      <pubDate>Tue, 17 Aug 2021 20:56:04 -0400</pubDate>
+      
+      <guid>http://example.org/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Festivals</title>
+      <link>http://example.org/tags/festivals/</link>
+      <pubDate>Tue, 17 Aug 2021 20:56:00 -0400</pubDate>
+      
+      <guid>http://example.org/tags/festivals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pop Shop</title>
+      <link>http://example.org/tags/pop-shop/</link>
+      <pubDate>Tue, 17 Aug 2021 20:55:57 -0400</pubDate>
+      
+      <guid>http://example.org/tags/pop-shop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Live Show</title>
+      <link>http://example.org/tags/live-show/</link>
+      <pubDate>Tue, 17 Aug 2021 20:55:53 -0400</pubDate>
+      
+      <guid>http://example.org/tags/live-show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Billboard</title>
+      <link>http://example.org/tags/billboard/</link>
+      <pubDate>Tue, 17 Aug 2021 20:55:47 -0400</pubDate>
+      
+      <guid>http://example.org/tags/billboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dance</title>
+      <link>http://example.org/tags/dance/</link>
+      <pubDate>Tue, 17 Aug 2021 20:55:43 -0400</pubDate>
+      
+      <guid>http://example.org/tags/dance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hot Songs</title>
+      <link>http://example.org/tags/hot-songs/</link>
+      <pubDate>Tue, 17 Aug 2021 20:55:37 -0400</pubDate>
+      
+      <guid>http://example.org/tags/hot-songs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latin</title>
+      <link>http://example.org/tags/latin/</link>
+      <pubDate>Tue, 17 Aug 2021 20:48:09 -0400</pubDate>
+      
+      <guid>http://example.org/tags/latin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Country on My New Hugo Site</title>
+    <link>http://example.org/tags/country/</link>
+    <description>Recent content in Country on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Aug 2021 20:56:04 -0400</lastBuildDate><atom:link href="http://example.org/tags/country/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Will free songs ever rule the world?</title>
+      <link>http://example.org/posts/post-10/</link>
+      <pubDate>Tue, 17 Aug 2021 20:56:04 -0400</pubDate>
+      
+      <guid>http://example.org/posts/post-10/</guid>
+      <description>Why the world would end without dance playlists. An expert interview about live shows. How country music festivals make you a better lover. Why music apps are killing you. The 8 best concert event twitter feeds to follow. 19 ideas you can steal from music festivals. An expert interview about billboard music awards. How music scores are making the world a better place. How latin instruments aren&amp;rsquo;t as bad as you think.</description>
+    </item>
+    
+  </channel>
+</rss>
